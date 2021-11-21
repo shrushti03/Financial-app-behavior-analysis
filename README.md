@@ -1,6 +1,7 @@
 # Financial-app-behavior-analysis
 
-Bussines Problem
+# Bussines Problem
+
 The Financial Technology company launch there a mobile app. This app used for financial purposes like bank loans, savings, etc. in one place.It has two versions free and premium. The free version app contains basic features and customer wants to use the premium feature then they have to pay some amount to unlock it.
 
 The main goal of the company is to sell the premium version app with low advertisement cost but they don’t know how to do it. That’s a reason they are provided the premium feature in the free version app for 24 hours to collect the customer’s behavior. After that, the company hired the Machine Learning Engineer to find insight from the collected data (customer’s behavior).
